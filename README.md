@@ -28,11 +28,5 @@ This project implements a fitness monitoring system using the LPC2148 microcontr
 3. Simulate the circuit in Proteus or deploy it on actual hardware.
 4. Use switches to input calorie targets and track progress via LEDs and the 7-segment display.
 
-## Contributors
-- Arun R (AM.EN.U4EAC21018)
-- Drupad Dev P (AM.EN.U4EAC21028)
-- Abhiram B (AM.EN.U4EAC21003)
-- Sourabh S K (AM.EN.U4EAC21066)
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
